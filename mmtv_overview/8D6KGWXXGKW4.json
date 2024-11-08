@@ -1,0 +1,323 @@
+{
+    "productId": "8D6KGWXXGKW4",
+    "productFamily": "Movies",
+    "videoType": "BaseMovie",
+    "locale": "en-us",
+    "bundleProducts": [
+        {
+            "title": "Meg 2-Film Collection",
+            "releaseYear": "2023",
+            "price": "19.99",
+            "image": {
+                "backgroundColor": "",
+                "caption": "Meg 2-Film Collection",
+                "fileSizeInBytes": 0,
+                "foregroundColor": "",
+                "height": 800,
+                "imagePositionInfo": "",
+                "imagePurpose": "BoxArt",
+                "unscaledImageSHA256Hash": "",
+                "uri": "http://musicart.xboxlive.com/7/e3166700-0000-0000-0000-000000000002/504/image.jpg",
+                "width": 584
+            },
+            "productLink": "https://apps.microsoft.com/store/detail/8D6KGWXXJ1H8?hl=en-us&gl=us"
+        },
+        {
+            "title": "Mega Shark 5-Film Collection",
+            "releaseYear": "2023",
+            "price": "44.99",
+            "image": {
+                "backgroundColor": "",
+                "caption": "Mega Shark 5-Film Collection",
+                "fileSizeInBytes": 0,
+                "foregroundColor": "",
+                "height": 2880,
+                "imagePositionInfo": "",
+                "imagePurpose": "BoxArt",
+                "unscaledImageSHA256Hash": "",
+                "uri": "http://musicart.xboxlive.com/7/2f446700-0000-0000-0000-000000000002/504/image.jpg",
+                "width": 2160
+            },
+            "productLink": "https://apps.microsoft.com/store/detail/8D6KGWXXF5XZ?hl=en-us&gl=us"
+        },
+        {
+            "title": "Meg 2: The Trench + Bonus Content",
+            "releaseYear": "2023",
+            "price": "7.99",
+            "image": {
+                "backgroundColor": "",
+                "caption": "Meg 2: The Trench + Bonus Content",
+                "fileSizeInBytes": 0,
+                "foregroundColor": "",
+                "height": 800,
+                "imagePositionInfo": "",
+                "imagePurpose": "BoxArt",
+                "unscaledImageSHA256Hash": "",
+                "uri": "http://musicart.xboxlive.com/7/59146700-0000-0000-0000-000000000002/504/image.jpg",
+                "width": 584
+            },
+            "productLink": "https://apps.microsoft.com/store/detail/8D6KGWXXF5XX?hl=en-us&gl=us"
+        }
+    ],
+    "castAndCrew": [
+        {
+            "name": "Ben Wheatley",
+            "roleType": "Director"
+        },
+        {
+            "name": "Jon Hoeber",
+            "roleType": "Writer"
+        },
+        {
+            "name": "Erich Hoeber",
+            "roleType": "Writer"
+        },
+        {
+            "name": "Dean Georgaris",
+            "roleType": "Writer"
+        },
+        {
+            "name": "Jason Statham",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Jing Wu",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Shuya Sophia Cai",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Cliff Curtis",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Page Kennedy",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Sergio Peris-Mencheta",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Skyler Samuels",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Melissanthi Mahut",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Whoopie van Raam",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Kiran Sonia Sawar",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Felix Mayr",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Sienna Guillory",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Tao Guo",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Robin Hill",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Lele Dai",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Ivy Tsui",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Stewart Alexander",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Xiong Jinji",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Able Wanamakok",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Jingjing Cai",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Li Xin",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Kenneth Won",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Longxi",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Narisu Bai",
+            "roleType": "Actor"
+        },
+        {
+            "name": "Matthew Stirling",
+            "roleType": "Actor"
+        }
+    ],
+    "additionalInformation": [
+        {
+            "name": "Director",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "Ben Wheatley"
+                }
+            ]
+        },
+        {
+            "name": "Released Year",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "2023"
+                }
+            ]
+        },
+        {
+            "name": "Genres",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "Action/Adventure"
+                },
+                {
+                    "textValue": "Sci-Fi/Fantasy"
+                }
+            ]
+        },
+        {
+            "name": "Size",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "6.47 GB (HD 1080p)"
+                },
+                {
+                    "textValue": "4.05 GB (HD 720p)"
+                },
+                {
+                    "textValue": "3.24 GB (SD 480p)"
+                }
+            ]
+        },
+        {
+            "name": "Studio",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "Warner Bros."
+                }
+            ]
+        },
+        {
+            "name": "Rating",
+            "renderHint": "Image",
+            "values": [
+                {
+                    "textValue": "MPAA",
+                    "imageUri": "https://store-images.microsoft.com/image/global.41607.image.correlationid.b99eb611-d337-44c5-8159-cba55adbb301",
+                    "imageLinkUri": "https://go.microsoft.com/fwlink/?LinkID=248495&clcid=0x409",
+                    "imageLinkText": "Parental guidance 13",
+                    "imageAltText": "PG-13",
+                    "description": "For ages 13 and up"
+                }
+            ]
+        },
+        {
+            "name": "Writers",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "Jon Hoeber"
+                },
+                {
+                    "textValue": "Erich Hoeber"
+                },
+                {
+                    "textValue": "Dean Georgaris"
+                }
+            ]
+        },
+        {
+            "name": "Additional terms",
+            "renderHint": "Link",
+            "values": [
+                {
+                    "textValue": "Additional terms",
+                    "hyperLink": ""
+                }
+            ]
+        },
+        {
+            "name": "Subtitles",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "Closed Caption (en-US)"
+                }
+            ]
+        },
+        {
+            "name": "Duration",
+            "renderHint": "Text",
+            "values": [
+                {
+                    "textValue": "01h:55min"
+                }
+            ]
+        }
+    ],
+    "description": "Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.",
+    "otherSeasons": [],
+    "episodes": [],
+    "bonusContent": [],
+    "trailerData": {
+        "title": "",
+        "videos": [
+            {
+                "src": "http://msv-r026.video.microsoft.com/9bbd3de4-b142-43cc-8052-9c32e042b408/fb2290e9-c48e-4797-990b-9ffcc926d3fd_DTO_HD.mp4",
+                "type": "video/mp4",
+                "resolutionFormat": "HD"
+            },
+            {
+                "src": "http://msv-r025.video.microsoft.com/58cbff9c-f9ec-42c3-9628-5f3b54c5675f/fb2290e9-c48e-4797-990b-9ffcc926d3fd_DTO_SD.mp4",
+                "type": "video/mp4",
+                "resolutionFormat": "SD"
+            },
+            {
+                "src": "http://msv-r031.video.microsoft.com/93b4290e-7e88-4e62-8a4c-b2ef81f51708/fb2290e9-c48e-4797-990b-9ffcc926d3fd.ism/manifest",
+                "type": "video/mp4",
+                "resolutionFormat": "HD"
+            },
+            {
+                "src": "http://msv-r032.video.microsoft.com/f8172e4b-0627-4b54-9543-6dbf06ba9b38/fb2290e9-c48e-4797-990b-9ffcc926d3fd.ism/manifest",
+                "type": "video/mp4",
+                "resolutionFormat": "SD"
+            }
+        ],
+        "posterImage": "http://musicart.xboxlive.com/7/3ae46600-0000-0000-0000-000000000002/504/image.jpg"
+    }
+}

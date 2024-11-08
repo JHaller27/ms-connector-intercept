@@ -1,0 +1,78 @@
+{
+    "locale": "en-US",
+    "productId": "8d6kgwxxgkw4",
+    "title": "Buy The Meg 2: The Trench - Microsoft Store",
+    "shortTitle": "The Meg 2: The Trench",
+    "description": "A research team on an exploratory dive into the depths of the ocean are pitted against colossal, prehistoric sharks. To survive, they must outrun, outsmart and outswim these predators.",
+    "keywords": "",
+    "image": {
+        "uri": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXXGKW4/image?locale=en-us",
+        "height": 2841.0,
+        "width": 2000.0,
+        "altText": ""
+    },
+    "canonicalUrl": "https://wwwqa.microsoft.com/en-us/p/ive-been-modified/8d6kgwxxgkw4",
+    "productName": "The Meg 2: The Trench",
+    "productDescription": "A research team on an exploratory dive into the depths of the ocean are pitted against colossal, prehistoric sharks. To survive, they must outrun, outsmart and outswim these predators.",
+    "offers": {
+        "currency": "USD",
+        "lowPrice": 3.99,
+        "highPrice": 9.99,
+        "offers": [
+            {
+                "currency": "USD",
+                "price": 9.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 9.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 9.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            },
+            {
+                "currency": "USD",
+                "price": 3.99,
+                "disambiguatingDescription": "The Meg 2: The Trench",
+                "availability": ""
+            }
+        ]
+    }
+}
