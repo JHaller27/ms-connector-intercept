@@ -1,0 +1,341 @@
+{
+  "pageData": {
+    "revisionId": "638664962340220000",
+    "ingestionSource": "",
+    "isMicrosoftProduct": false,
+    "productType": "Movie",
+    "productFamily": "Movies",
+    "productKind": "Movie",
+    "schemaVersion": "1",
+    "requestids": {
+      "productId": "8d6kgwxxf5xx"
+    },
+    "moviesAnywhere": "https://www.microsoft.com/en-us/moviesanywhere?ocid=MOVIESANYWHERE_PDP_2019",
+    "directors": [
+      "Ben Wheatley"
+    ],
+    "isUHD": true
+  },
+  "skuInfo": {
+    "0001": {
+      "CallToAction": {
+        "hasInterstitial": false,
+        "actionType": "Buy",
+        "enabledConditions": [
+          {
+            "value": true
+          }
+        ],
+        "visibilityConditions": [
+          {
+            "value": true
+          }
+        ],
+        "availabilityId": "9WZDNCR0RR6F",
+        "focusRank": 600,
+        "label": "Buy"
+      },
+      "images": [],
+      "title": "Meg 2: The Trench + Bonus Content",
+      "description": "Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.",
+      "skuButtonTitle": null,
+      "disclaimers": [],
+      "skuId": "0001",
+      "availabilityId": "9WZDNCR0RR6F",
+      "price": {
+        "taxLabel": "",
+        "currency": "USD",
+        "currencySymbol": "$",
+        "currentPrice": "$14.99",
+        "currentValue": 14.99
+      },
+      "badge": null,
+      "remediation": null,
+      "PricingMessage": null,
+      "ShippingMessage": null,
+      "skuColor": null,
+      "releaseDate": null,
+      "publisherName": null,
+      "affirmation": null,
+      "inventoryControlSku": null,
+      "eddMessage": {},
+      "OwnershipMessage": null,
+      "SubscriptionMessage": null,
+      "DiscountMessage": null,
+      "euPrice": null,
+      "eubadge": null,
+      "EUPricingMessage": null,
+      "enableBuyNowModal": true,
+      "releaseYear": null,
+      "audioLanguage": "en-US",
+      "overlayProperty": false,
+      "primaryResolutionFormat": false,
+      "FulfillmentMessage": null,
+      "PreorderAvailabilityMessage": null,
+      "systemRequirementsMessage": {
+        "value": "Can't play on this device. Check system requirements."
+      },
+      "acquisitionHoursMessage": null,
+      "buyOrRentInAnyFormatMessage": {
+        "value": "Buy in any format for the same price"
+      },
+      "discountRemainingMessage": null
+    },
+    "0002": {
+      "CallToAction": {
+        "hasInterstitial": false,
+        "actionType": "Buy",
+        "enabledConditions": [
+          {
+            "value": true
+          }
+        ],
+        "visibilityConditions": [
+          {
+            "value": true
+          }
+        ],
+        "availabilityId": "9WZDNCR0RR6F",
+        "focusRank": 600,
+        "label": "Buy"
+      },
+      "images": [],
+      "title": "Meg 2: The Trench + Bonus Content",
+      "description": "Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.",
+      "skuButtonTitle": null,
+      "disclaimers": [],
+      "skuId": "0002",
+      "availabilityId": "9WZDNCR0RR6F",
+      "price": {
+        "taxLabel": "",
+        "currency": "USD",
+        "currencySymbol": "$",
+        "currentPrice": "$14.99",
+        "currentValue": 14.99
+      },
+      "badge": null,
+      "remediation": null,
+      "PricingMessage": null,
+      "ShippingMessage": null,
+      "skuColor": null,
+      "releaseDate": null,
+      "publisherName": null,
+      "affirmation": null,
+      "inventoryControlSku": null,
+      "eddMessage": {},
+      "OwnershipMessage": null,
+      "SubscriptionMessage": null,
+      "DiscountMessage": null,
+      "euPrice": null,
+      "eubadge": null,
+      "EUPricingMessage": null,
+      "enableBuyNowModal": true,
+      "releaseYear": null,
+      "audioLanguage": "en-US",
+      "overlayProperty": false,
+      "primaryResolutionFormat": false,
+      "FulfillmentMessage": null,
+      "PreorderAvailabilityMessage": null,
+      "systemRequirementsMessage": {
+        "value": "Can't play on this device. Check system requirements."
+      },
+      "acquisitionHoursMessage": null,
+      "buyOrRentInAnyFormatMessage": {
+        "value": "Buy in any format for the same price"
+      },
+      "discountRemainingMessage": null
+    },
+    "0003": {
+      "CallToAction": {
+        "hasInterstitial": false,
+        "actionType": "Buy",
+        "enabledConditions": [
+          {
+            "value": true
+          }
+        ],
+        "visibilityConditions": [
+          {
+            "value": true
+          }
+        ],
+        "availabilityId": "9WZDNCR0RR6F",
+        "focusRank": 600,
+        "label": "Buy"
+      },
+      "images": [],
+      "title": "Meg 2: The Trench + Bonus Content",
+      "description": "Jonas Taylor leads a research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal, prehistoric sharks and relentless environmental plunderers, they must outrun, outsmart and outswim their merciless predators.",
+      "skuButtonTitle": null,
+      "disclaimers": [],
+      "skuId": "0003",
+      "availabilityId": "9WZDNCR0RR6F",
+      "price": {
+        "taxLabel": "",
+        "currency": "USD",
+        "currencySymbol": "$",
+        "currentPrice": "$14.99",
+        "currentValue": 14.99
+      },
+      "badge": null,
+      "remediation": null,
+      "PricingMessage": null,
+      "ShippingMessage": null,
+      "skuColor": null,
+      "releaseDate": null,
+      "publisherName": null,
+      "affirmation": null,
+      "inventoryControlSku": null,
+      "eddMessage": {},
+      "OwnershipMessage": null,
+      "SubscriptionMessage": null,
+      "DiscountMessage": null,
+      "euPrice": null,
+      "eubadge": null,
+      "EUPricingMessage": null,
+      "enableBuyNowModal": true,
+      "releaseYear": null,
+      "audioLanguage": "en-US",
+      "overlayProperty": false,
+      "primaryResolutionFormat": false,
+      "FulfillmentMessage": null,
+      "PreorderAvailabilityMessage": null,
+      "systemRequirementsMessage": {
+        "value": "Can't play on this device. Check system requirements."
+      },
+      "acquisitionHoursMessage": null,
+      "buyOrRentInAnyFormatMessage": {
+        "value": "Buy in any format for the same price"
+      },
+      "discountRemainingMessage": null
+    }
+  },
+  "productId": "8d6kgwxxf5xx",
+  "selectors": [
+    {
+      "selectionItems": [
+        {
+          "label": "SD"
+        },
+        {
+          "label": "HD"
+        },
+        {
+          "label": "UHD"
+        }
+      ],
+      "defaultIndex": 2.0,
+      "specificationRenderHint": "SelectButtons",
+      "automationId": "primaryResolutionFormatSelector",
+      "label": "Format selector"
+    }
+  ],
+  "locale": "en-us",
+  "skuMap": {
+    "0": [
+      "0001"
+    ],
+    "1": [
+      "0002"
+    ],
+    "2": [
+      "0003"
+    ]
+  },
+  "productInfo": {
+    "description": "A research team on an exploratory dive into the depths of the ocean are pitted against colossal, prehistoric sharks. To survive, they must outrun, outsmart and outswim these predators.",
+    "images": [
+      {
+        "width": 584.0,
+        "height": 800.0,
+        "baseUri": "http://musicart.xboxlive.com/7/59146700-0000-0000-0000-000000000002/504/image.jpg",
+        "system": "rtdam",
+        "alt": "Meg 2: The Trench + Bonus Content",
+        "background": "",
+        "imagePosition": "",
+        "purpose": "BoxArt"
+      },
+      {
+        "width": 3840.0,
+        "height": 2160.0,
+        "baseUri": "http://musicart.xboxlive.com/7/92496700-0000-0000-0000-000000000002/504/image.jpg",
+        "system": "rtdam",
+        "alt": "Meg 2: The Trench + Bonus Content",
+        "background": "",
+        "imagePosition": "",
+        "purpose": "Background"
+      }
+    ],
+    "title": "The Meg 2: The Trench",
+    "shortDescription": null,
+    "genres": [
+      "Action/Adventure",
+      "Sci-Fi/Fantasy"
+    ],
+    "trailer": {
+      "trailerName": "",
+      "uri": "http://msv-r026.video.microsoft.com/9bbd3de4-b142-43cc-8052-9c32e042b408/fb2290e9-c48e-4797-990b-9ffcc926d3fd_DTO_HD.mp4",
+      "durationInSeconds": "168",
+      "videoEncoding": "H264",
+      "resolutionFormat": "HD",
+      "resolutionDetail": "720p",
+      "deliveryFormat": "Progressive"
+    }
+  },
+  "staticBundle": null,
+  "contentRating": [
+    {
+      "ratingsBoard": {
+        "longName": "Motion Picture Association of America",
+        "name": "Parental guidance 13",
+        "uri": "https://go.microsoft.com/fwlink/?LinkID=248495&clcid=0x409"
+      },
+      "longName": "Motion Picture Association of America",
+      "logoUri": "https://store-images.microsoft.com/image/global.41607.image.correlationid.b99eb611-d337-44c5-8159-cba55adbb301",
+      "description": "For ages 13 and up",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactiveElements": [],
+      "restrictMetadata": false,
+      "restrictPurchase": false
+    }
+  ],
+  "sourceCatalog": "Cat1",
+  "metadata": [
+    {
+      "text": "2023",
+      "type": "text"
+    },
+    {
+      "text": "Action/Adventure",
+      "type": "genre"
+    },
+    {
+      "text": "Sci-Fi/Fantasy",
+      "type": "genre"
+    },
+    {
+      "text": "1 h 55 min",
+      "type": "text"
+    },
+    {
+      "text": "English Audio",
+      "type": "text"
+    },
+    {
+      "text": "CC",
+      "type": "badge",
+      "alt": "Closed Captions"
+    },
+    {
+      "text": "HDR",
+      "type": "badge",
+      "alt": "High Dynamic Range"
+    },
+    {
+      "text": "PG-13",
+      "type": "badge",
+      "alt": "For ages 13 and up"
+    }
+  ]
+}

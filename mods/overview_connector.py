@@ -1,4 +1,4 @@
-from func_mods import FuncMods
+from mods.func_mods import FuncMods
 
 
 mods = FuncMods()

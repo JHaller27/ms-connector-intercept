@@ -1,4 +1,4 @@
-from func_mods import FuncMods
+from mods.func_mods import FuncMods
 from copy import deepcopy
 
 
@@ -240,7 +240,7 @@ def mock_image(obj):
 	return obj
 
 
-@mods.add
+# @mods.add
 def fake_price(obj):
 	print('bb_mod: Fake price')
 	for skuId, skuObj in obj['skuInfo'].items():
